@@ -1,4 +1,4 @@
-# DA-TransUnet
+# MIPC-Net
 MIPC-Net: A Mutual Inclusion Mechanism for Precise Boundary Segmentation in Medical Images (https://arxiv.org/abs/2404.08201)
 
 ### 1.Prepare pre-trained ViT models
