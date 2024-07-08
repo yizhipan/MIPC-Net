@@ -2,7 +2,8 @@
 MIPC-Net: A Mutual Inclusion Mechanism for Precise Boundary Segmentation in Medical Images (https://arxiv.org/abs/2404.08201)
 
 ### 1.Prepare pre-trained ViT models
-* [Get models in this link](https://drive.google.com/drive/folders/1UqIEPcohjIZdpT5bIc0NPcxkvI8i4ily)
+* [Get models in this link](https://drive.google.com/drive/folders/1UqIEPcohjIZdpT5bIc0NPcxkvI8i4ily
+* [Model parameters](https://drive.google.com/file/d/1smgM10kSQdmEtwpjTsDMULTnC7Mkw-QS/view?usp=sharing)
 
 ### 2.Prepare data
 Please use the [preprocessed data](https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd?usp=sharing) for research purposes.
