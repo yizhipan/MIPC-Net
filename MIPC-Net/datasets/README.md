@@ -10,6 +10,13 @@
 ├── MIPC
 │   ├──datasets
 │   │       └── dataset_*.py
+            └──Synapse
+              ├── test_vol_h5
+              │   ├── case0001.npy.h5
+              │   └── *.npy.h5
+              └── train_npz
+                  ├── case0005_slice000.npz
+                  └── *.npz
 │   ├──train.py
 │   ├──test.py
 │   └──...
@@ -18,12 +25,5 @@
 │       └── imagenet21k
 │           ├── R50+ViT-B_16.npz
 │           └── *.npz
-└── data
-    └──Synapse
-        ├── test_vol_h5
-        │   ├── case0001.npy.h5
-        │   └── *.npy.h5
-        └── train_npz
-            ├── case0005_slice000.npz
-            └── *.npz
+
 ```
